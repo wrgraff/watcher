@@ -42,3 +42,4 @@ node_modules/
 dist/
 .sketch
 *.php
+test.js
